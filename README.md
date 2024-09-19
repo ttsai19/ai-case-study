@@ -36,3 +36,13 @@
 - **Benefit:** Expanding into animation would open new markets for digital media, entertainment, and advertising.
 - **Technologies utilized:** Machine learning, deep generative models, and video synthesis.
 - **Why appropriate:** These technologies would allow MidJourney to build upon its existing AI image generation capabilities and apply them to a broader creative medium.
+
+
+### Sources Used:
+
+- [MidJourney's Website](https://www.midjourney.com/)
+- [David Holz Interview on AI and Creativity](https://www.forbes.com/sites/robsalkowitz/2022/09/16/midjourney-founder-david-holz-on-the-impact-of-ai-on-art-imagination-and-the-creative-economy/)
+- [AI-Generated Art Trends](https://www.interaction-design.org/literature/topics/ai-generated-art#:~:text=Some%20of%20the%20notable%20trends,styles%20into%20a%20single%20piece.)
+- [OpenAI Competitors Overview](https://www.interaction-design.org/literature/topics/ai-generated-art#:~:text=Some%20of%20the%20notable%20trends,styles%20into%20a%20single%20piece.)
+- [The Evolution of GANs in Image Generation](https://medium.com/@sunil.dangi/the-evolution-of-generative-ai-models-from-gans-to-transformers-853aafda017d)
+
